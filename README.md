@@ -7,9 +7,12 @@
 
 基于 **PaddlePaddle + Monte Carlo Tree Search** 的中国象棋 AI 项目，包含棋盘渲染、规则逻辑、MCTS 搜索、神经网络策略价值模型、自我对弈数据采集和模型训练流程。
 ## 演示视频
-[<video width="320" height="240" controls> 
-  <source src="[https://www.runoob.com/try/demo_source/movie.mp4](https://tt-music-1316659401.cos.ap-shanghai.myqcloud.com/mp4/6%E6%9C%8825%E6%97%A5.mp4)" type="video/mp4"> 
-</video>](https://tt-music-1316659401.cos.ap-shanghai.myqcloud.com/mp4/6%E6%9C%8825%E6%97%A5.mp4) 
+
+<video width="320" height="240" controls> 
+  <source src="https://tt-music-1316659401.cos.ap-shanghai.myqcloud.com/mp4/6%E6%9C%8825%E6%97%A5.mp4" type="video/mp4"> 
+</video> 
+
+
 ## 目录
 
 - [项目结构](#项目结构)
