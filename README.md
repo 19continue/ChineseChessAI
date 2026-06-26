@@ -10,6 +10,10 @@
 
 [演示视频](https://tt-music-1316659401.cos.ap-shanghai.myqcloud.com/mp4/6%E6%9C%8825%E6%97%A5.mp4)
 
+## 运行截图
+
+![运行截图](1.jpg)
+
 ## 目录
 
 - [项目结构](#项目结构)
